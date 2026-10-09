@@ -6,7 +6,7 @@ This is a library of my Claude skills I've made to help me in various ways. Belo
 The learning skills use re-enforcement learning. They don't hold your hand through everything and **are not** intended to be used as your main source of learning but rather a supplimental resource to use along with your main material. It will explain concepts to you briefly and then follow it up with questions until you are consistently getting answers right.
 
 ### Programming
-Programming skills can assist with learning new programming languages and concepts. Inform it what you're learning, where you are and what material you're using (see the below example) and it will tailor a tutor experience to your current knowledge
+Programming skills can assist with learning new programming languages and concepts. Inform it what you're learning, where you are and what material you're using (see the below example) and it will tailor a tutor experience to your current knowledge including questions for code review, fixing broken code and writing code yourself
 
 ## Examples
 
